@@ -1785,17 +1785,17 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
-      "AutoLotDAL_Core2 .Models/1.0.0": {
+      "AutolotDAL_Core2.Models/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
           "Microsoft.AspNetCore.Mvc.DataAnnotations": "2.2.0"
         },
         "compile": {
-          "bin/placeholder/AutoLotDAL_Core2 .Models.dll": {}
+          "bin/placeholder/AutolotDAL_Core2.Models.dll": {}
         },
         "runtime": {
-          "bin/placeholder/AutoLotDAL_Core2 .Models.dll": {}
+          "bin/placeholder/AutolotDAL_Core2.Models.dll": {}
         }
       }
     }
@@ -6231,15 +6231,15 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
-    "AutoLotDAL_Core2 .Models/1.0.0": {
+    "AutolotDAL_Core2.Models/1.0.0": {
       "type": "project",
-      "path": "../AutoLotDAL_Core2 .Models/AutoLotDAL_Core2 .Models.csproj",
-      "msbuildProject": "../AutoLotDAL_Core2 .Models/AutoLotDAL_Core2 .Models.csproj"
+      "path": "../AutolotDAL_Core2.Models/AutolotDAL_Core2.Models.csproj",
+      "msbuildProject": "../AutolotDAL_Core2.Models/AutolotDAL_Core2.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "AutoLotDAL_Core2 .Models >= 1.0.0",
+      "AutolotDAL_Core2.Models >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 3.1.3",
       "Microsoft.EntityFrameworkCore.Design >= 3.1.3",
       "Microsoft.EntityFrameworkCore.Relational >= 3.1.3",
@@ -6255,11 +6255,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Csharp\\MyProjects\\AutoLotDAL_Core2\\AutoLotDAL_Core2\\AutoLotDAL_Core2.csproj",
-      "projectName": "AutoLotDAL_Core2",
-      "projectPath": "E:\\Csharp\\MyProjects\\AutoLotDAL_Core2\\AutoLotDAL_Core2\\AutoLotDAL_Core2.csproj",
+      "projectUniqueName": "E:\\Csharp\\MyProjects\\AutoLotDAL_Core2\\AutolotDAL_Core2\\AutolotDAL_Core2.csproj",
+      "projectName": "AutolotDAL_Core2",
+      "projectPath": "E:\\Csharp\\MyProjects\\AutoLotDAL_Core2\\AutolotDAL_Core2\\AutolotDAL_Core2.csproj",
       "packagesPath": "C:\\Users\\Соловьев СВ\\.nuget\\packages\\",
-      "outputPath": "E:\\Csharp\\MyProjects\\AutoLotDAL_Core2\\AutoLotDAL_Core2\\obj\\",
+      "outputPath": "E:\\Csharp\\MyProjects\\AutoLotDAL_Core2\\AutolotDAL_Core2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -6280,8 +6280,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "E:\\Csharp\\MyProjects\\AutoLotDAL_Core2\\AutoLotDAL_Core2 .Models\\AutoLotDAL_Core2 .Models.csproj": {
-              "projectPath": "E:\\Csharp\\MyProjects\\AutoLotDAL_Core2\\AutoLotDAL_Core2 .Models\\AutoLotDAL_Core2 .Models.csproj"
+            "E:\\Csharp\\MyProjects\\AutoLotDAL_Core2\\AutolotDAL_Core2.Models\\AutolotDAL_Core2.Models.csproj": {
+              "projectPath": "E:\\Csharp\\MyProjects\\AutoLotDAL_Core2\\AutolotDAL_Core2.Models\\AutolotDAL_Core2.Models.csproj"
             }
           }
         }

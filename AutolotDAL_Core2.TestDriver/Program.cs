@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace AutoLotDAL_Core2_.TestDnver
+namespace AutolotDAL_Core2.TestDriver
 {
     class Program
     {

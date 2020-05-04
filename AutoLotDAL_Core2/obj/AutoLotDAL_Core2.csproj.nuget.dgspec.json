@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Csharp\\MyProjects\\AutoLotDAL_Core2\\AutoLotDAL_Core2\\AutoLotDAL_Core2.csproj": {}
+    "E:\\Csharp\\MyProjects\\AutoLotDAL_Core2\\AutolotDAL_Core2\\AutolotDAL_Core2.csproj": {}
   },
   "projects": {
-    "E:\\Csharp\\MyProjects\\AutoLotDAL_Core2\\AutoLotDAL_Core2 .Models\\AutoLotDAL_Core2 .Models.csproj": {
+    "E:\\Csharp\\MyProjects\\AutoLotDAL_Core2\\AutolotDAL_Core2.Models\\AutolotDAL_Core2.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Csharp\\MyProjects\\AutoLotDAL_Core2\\AutoLotDAL_Core2 .Models\\AutoLotDAL_Core2 .Models.csproj",
-        "projectName": "AutoLotDAL_Core2 .Models",
-        "projectPath": "E:\\Csharp\\MyProjects\\AutoLotDAL_Core2\\AutoLotDAL_Core2 .Models\\AutoLotDAL_Core2 .Models.csproj",
+        "projectUniqueName": "E:\\Csharp\\MyProjects\\AutoLotDAL_Core2\\AutolotDAL_Core2.Models\\AutolotDAL_Core2.Models.csproj",
+        "projectName": "AutolotDAL_Core2.Models",
+        "projectPath": "E:\\Csharp\\MyProjects\\AutoLotDAL_Core2\\AutolotDAL_Core2.Models\\AutolotDAL_Core2.Models.csproj",
         "packagesPath": "C:\\Users\\Соловьев СВ\\.nuget\\packages\\",
-        "outputPath": "E:\\Csharp\\MyProjects\\AutoLotDAL_Core2\\AutoLotDAL_Core2 .Models\\obj\\",
+        "outputPath": "E:\\Csharp\\MyProjects\\AutoLotDAL_Core2\\AutolotDAL_Core2.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -67,14 +67,14 @@
         }
       }
     },
-    "E:\\Csharp\\MyProjects\\AutoLotDAL_Core2\\AutoLotDAL_Core2\\AutoLotDAL_Core2.csproj": {
+    "E:\\Csharp\\MyProjects\\AutoLotDAL_Core2\\AutolotDAL_Core2\\AutolotDAL_Core2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Csharp\\MyProjects\\AutoLotDAL_Core2\\AutoLotDAL_Core2\\AutoLotDAL_Core2.csproj",
-        "projectName": "AutoLotDAL_Core2",
-        "projectPath": "E:\\Csharp\\MyProjects\\AutoLotDAL_Core2\\AutoLotDAL_Core2\\AutoLotDAL_Core2.csproj",
+        "projectUniqueName": "E:\\Csharp\\MyProjects\\AutoLotDAL_Core2\\AutolotDAL_Core2\\AutolotDAL_Core2.csproj",
+        "projectName": "AutolotDAL_Core2",
+        "projectPath": "E:\\Csharp\\MyProjects\\AutoLotDAL_Core2\\AutolotDAL_Core2\\AutolotDAL_Core2.csproj",
         "packagesPath": "C:\\Users\\Соловьев СВ\\.nuget\\packages\\",
-        "outputPath": "E:\\Csharp\\MyProjects\\AutoLotDAL_Core2\\AutoLotDAL_Core2\\obj\\",
+        "outputPath": "E:\\Csharp\\MyProjects\\AutoLotDAL_Core2\\AutolotDAL_Core2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -95,8 +95,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "E:\\Csharp\\MyProjects\\AutoLotDAL_Core2\\AutoLotDAL_Core2 .Models\\AutoLotDAL_Core2 .Models.csproj": {
-                "projectPath": "E:\\Csharp\\MyProjects\\AutoLotDAL_Core2\\AutoLotDAL_Core2 .Models\\AutoLotDAL_Core2 .Models.csproj"
+              "E:\\Csharp\\MyProjects\\AutoLotDAL_Core2\\AutolotDAL_Core2.Models\\AutolotDAL_Core2.Models.csproj": {
+                "projectPath": "E:\\Csharp\\MyProjects\\AutoLotDAL_Core2\\AutolotDAL_Core2.Models\\AutolotDAL_Core2.Models.csproj"
               }
             }
           }

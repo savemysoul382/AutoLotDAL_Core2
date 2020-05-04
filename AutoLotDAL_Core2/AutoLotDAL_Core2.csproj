@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
@@ -19,12 +19,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\AutoLotDAL_Core2 .Models\AutoLotDAL_Core2 .Models.csproj" />
+    <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools.DotNet" Version="2.0.0" />
   </ItemGroup>
 
   <ItemGroup>
-    <DotNetCliToolReference
-      Include="Microsoft.EntityFrameworkCore.Tools.DotNet" Version="2.0.0"/>
+    <ProjectReference Include="..\AutolotDAL_Core2.Models\AutolotDAL_Core2.Models.csproj" />
   </ItemGroup>
-
 </Project>
