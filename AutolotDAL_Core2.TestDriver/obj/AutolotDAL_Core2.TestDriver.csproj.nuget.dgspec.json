@@ -131,14 +131,14 @@
         }
       }
     },
-    "E:\\Csharp\\MyProjects\\AutoLotDAL_Core2\\AutolotDAL_Core2\\AutolotDAL_Core2.csproj": {
+    "E:\\Csharp\\MyProjects\\AutoLotDAL_Core2\\AutoLotDAL_Core2\\AutolotDAL_Core2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Csharp\\MyProjects\\AutoLotDAL_Core2\\AutolotDAL_Core2\\AutolotDAL_Core2.csproj",
+        "projectUniqueName": "E:\\Csharp\\MyProjects\\AutoLotDAL_Core2\\AutoLotDAL_Core2\\AutolotDAL_Core2.csproj",
         "projectName": "AutolotDAL_Core2",
-        "projectPath": "E:\\Csharp\\MyProjects\\AutoLotDAL_Core2\\AutolotDAL_Core2\\AutolotDAL_Core2.csproj",
+        "projectPath": "E:\\Csharp\\MyProjects\\AutoLotDAL_Core2\\AutoLotDAL_Core2\\AutolotDAL_Core2.csproj",
         "packagesPath": "C:\\Users\\Соловьев СВ\\.nuget\\packages\\",
-        "outputPath": "E:\\Csharp\\MyProjects\\AutoLotDAL_Core2\\AutolotDAL_Core2\\obj\\",
+        "outputPath": "E:\\Csharp\\MyProjects\\AutoLotDAL_Core2\\AutoLotDAL_Core2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

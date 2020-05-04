@@ -6180,8 +6180,8 @@
     },
     "AutolotDAL_Core2/1.0.0": {
       "type": "project",
-      "path": "../AutolotDAL_Core2/AutolotDAL_Core2.csproj",
-      "msbuildProject": "../AutolotDAL_Core2/AutolotDAL_Core2.csproj"
+      "path": "../AutoLotDAL_Core2/AutolotDAL_Core2.csproj",
+      "msbuildProject": "../AutoLotDAL_Core2/AutolotDAL_Core2.csproj"
     },
     "AutolotDAL_Core2.Models/1.0.0": {
       "type": "project",

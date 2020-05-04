@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Dyh2N0Gf4s9DHyWvjYJ3mI+mbXd6T9S9p47wK0QO2xc/IkDmIPZiXi5JX38E8FqmIhQbsDCn+OeKoNQXJWs5Zg==",
+  "dgSpecHash": "5SSQE+wlM4cAlDjAh/LoEspvFB32d8+++Gl8LB3MJLCUVHFMY8szeYBkl93iTuDqiWnZMME5PTtJJ0mJvGDZyQ==",
   "success": true,
-  "projectFilePath": "E:\\Csharp\\MyProjects\\AutoLotDAL_Core2\\AutolotDAL_Core2\\AutolotDAL_Core2.csproj",
+  "projectFilePath": "E:\\Csharp\\MyProjects\\AutoLotDAL_Core2\\AutoLotDAL_Core2\\AutolotDAL_Core2.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",
