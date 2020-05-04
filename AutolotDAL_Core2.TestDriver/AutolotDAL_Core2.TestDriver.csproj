@@ -5,4 +5,9 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\AutolotDAL_Core2.Models\AutolotDAL_Core2.Models.csproj" />
+    <ProjectReference Include="..\AutolotDAL_Core2\AutolotDAL_Core2.csproj" />
+  </ItemGroup>
+
 </Project>

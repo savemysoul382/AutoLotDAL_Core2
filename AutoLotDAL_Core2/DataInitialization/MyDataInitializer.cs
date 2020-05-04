@@ -1,9 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using AutolotDAL_Core2.EF;
-using AutoLotDAL_Core2.EF;
 using AutolotDAL_Core2.Models;
-using AutoLotDAL_Core2.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace AutoLotDAL_Core2.DataInitialization
