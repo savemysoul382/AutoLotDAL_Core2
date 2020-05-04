@@ -1,0 +1,70 @@
+
+
+Date:2020-05-04 13:00:21,855
+Thread:[1]
+Level:ERROR
+Logger:Syncfusion.Xamarin.ItemTemplate.SyncfusionXamarinMenu                         [(null)]
+Message:System.ArgumentException: Путь не может быть пустой строкой или строкой из пробелов.
+Имя параметра: path
+   в System.IO.Directory.GetParent(String path)
+   в Syncfusion.Xamarin.ItemTemplate.SyncfusionXamarinMenu.SyncfusionXamarinItemMenu_BeforeQueryStatus(Object sender, EventArgs args) в D:\3\development\xamarin-item-template\Syncfusion.Xamarin.ItemTemplate\SyncfusionXamarinMenu.cs:строка 151
+
+
+Date:2020-05-04 13:01:21,659
+Thread:[1]
+Level:ERROR
+Logger:Syncfusion.Xamarin.ItemTemplate.SyncfusionXamarinMenu                         [(null)]
+Message:System.ArgumentException: Путь не может быть пустой строкой или строкой из пробелов.
+Имя параметра: path
+   в System.IO.Directory.GetParent(String path)
+   в Syncfusion.Xamarin.ItemTemplate.SyncfusionXamarinMenu.SyncfusionXamarinItemMenu_BeforeQueryStatus(Object sender, EventArgs args) в D:\3\development\xamarin-item-template\Syncfusion.Xamarin.ItemTemplate\SyncfusionXamarinMenu.cs:строка 151
+
+
+Date:2020-05-04 14:44:32,869
+Thread:[1]
+Level:ERROR
+Logger:Syncfusion.Xamarin.ItemTemplate.SyncfusionXamarinMenu                         [(null)]
+Message:System.ArgumentException: Путь не может быть пустой строкой или строкой из пробелов.
+Имя параметра: path
+   в System.IO.Directory.GetParent(String path)
+   в Syncfusion.Xamarin.ItemTemplate.SyncfusionXamarinMenu.SyncfusionXamarinItemMenu_BeforeQueryStatus(Object sender, EventArgs args) в D:\3\development\xamarin-item-template\Syncfusion.Xamarin.ItemTemplate\SyncfusionXamarinMenu.cs:строка 151
+
+
+Date:2020-05-04 17:19:44,519
+Thread:[1]
+Level:ERROR
+Logger:Syncfusion.Xamarin.ItemTemplate.SyncfusionXamarinMenu                         [(null)]
+Message:System.ArgumentException: Путь не может быть пустой строкой или строкой из пробелов.
+Имя параметра: path
+   в System.IO.Directory.GetParent(String path)
+   в Syncfusion.Xamarin.ItemTemplate.SyncfusionXamarinMenu.SyncfusionXamarinItemMenu_BeforeQueryStatus(Object sender, EventArgs args) в D:\3\development\xamarin-item-template\Syncfusion.Xamarin.ItemTemplate\SyncfusionXamarinMenu.cs:строка 151
+
+
+Date:2020-05-04 17:19:57,593
+Thread:[1]
+Level:ERROR
+Logger:Syncfusion.Xamarin.ItemTemplate.SyncfusionXamarinMenu                         [(null)]
+Message:System.ArgumentException: Путь не может быть пустой строкой или строкой из пробелов.
+Имя параметра: path
+   в System.IO.Directory.GetParent(String path)
+   в Syncfusion.Xamarin.ItemTemplate.SyncfusionXamarinMenu.SyncfusionXamarinItemMenu_BeforeQueryStatus(Object sender, EventArgs args) в D:\3\development\xamarin-item-template\Syncfusion.Xamarin.ItemTemplate\SyncfusionXamarinMenu.cs:строка 151
+
+
+Date:2020-05-04 17:28:57,115
+Thread:[1]
+Level:ERROR
+Logger:Syncfusion.Xamarin.ItemTemplate.SyncfusionXamarinMenu                         [(null)]
+Message:System.ArgumentException: Путь не может быть пустой строкой или строкой из пробелов.
+Имя параметра: path
+   в System.IO.Directory.GetParent(String path)
+   в Syncfusion.Xamarin.ItemTemplate.SyncfusionXamarinMenu.SyncfusionXamarinItemMenu_BeforeQueryStatus(Object sender, EventArgs args) в D:\3\development\xamarin-item-template\Syncfusion.Xamarin.ItemTemplate\SyncfusionXamarinMenu.cs:строка 151
+
+
+Date:2020-05-04 17:44:58,036
+Thread:[1]
+Level:ERROR
+Logger:Syncfusion.Xamarin.ItemTemplate.SyncfusionXamarinMenu                         [(null)]
+Message:System.ArgumentException: Путь не может быть пустой строкой или строкой из пробелов.
+Имя параметра: path
+   в System.IO.Directory.GetParent(String path)
+   в Syncfusion.Xamarin.ItemTemplate.SyncfusionXamarinMenu.SyncfusionXamarinItemMenu_BeforeQueryStatus(Object sender, EventArgs args) в D:\3\development\xamarin-item-template\Syncfusion.Xamarin.ItemTemplate\SyncfusionXamarinMenu.cs:строка 151
